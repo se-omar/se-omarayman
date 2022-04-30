@@ -15,4 +15,7 @@
 <a href="https://www.leetcode.com/se-omarayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="se-omarayman" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=se-omarayman&" alt="se-omarayman" /></p>
+ <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/se-omarayman"><img alt="Omar Aymans's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=se-omarayman&custom_title=Omar Ayman's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
