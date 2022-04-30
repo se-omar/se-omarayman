@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Omar Ayman</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on [Therania, A Full stack Therapy and mental health care web app](https://github.com/se-omarayman/Therania)
 
-- 🌱 I’m currently learning **ASP.NET Core**
-
+## :sassy_man:  About me
+- :technologist: I am a `Junior` Backend Developer
+- 🔭 I’m currently working on [Therania](https://github.com/se-omarayman/Therania
+- :student: I’m currently learning: `ASP.NET Core` and `Computer Science`.
 - 📫 How to reach me **se.omarayman@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ki6nNHxq9d_bAOiP63uVn9Ieu8cWV08k/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
