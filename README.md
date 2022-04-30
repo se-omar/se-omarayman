@@ -17,5 +17,5 @@
 
  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/se-omarayman"><img alt="Omar Aymans's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=se-omarayman&custom_title=Omar Ayman's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+<a href="https://github.com/se-omarayman"> <img alt="Omar Ayman's activity graph" src="https://activity-graph.herokuapp.com/graph?username=se-omarayman&theme=react-dark"></a>
+<br/>
