@@ -9,11 +9,6 @@
 - 📫 How to reach me **se.omarayman@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ki6nNHxq9d_bAOiP63uVn9Ieu8cWV08k/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/se-omarayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="se-omarayman" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/se-omarayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="se-omarayman" height="30" width="40" /></a>
-</p>
 
  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
